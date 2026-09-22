@@ -27,14 +27,14 @@
 
 ---
 
-### 📐 Ingénierie Civile & 🚀 INIT42
+### Ingénierie Civile & Entreprenariat
 
-* **Génie Civil (ULiège)** : Modélisation analytique, résistance des matériaux, calcul de structures et résolution rigoureuse de problèmes physiques complexes.
-* **INIT42** : Conception et déploiement d'architectures numériques sur mesure, applications web haute performance, automatisation de processus et intégrations logicielles fiables.
+* **Étudiant en ingénierie civile (ULiège)** : actuellement en bachelier (bloc 3), orientation informatique, science des données et génie civil.
+* **Étudiant indépendant & Fondateur chez INIT42** : Conception et déploiement d'architectures numériques sur mesure, applications web haute performance, automatisation de processus et intégrations logicielles fiables.
 
 ---
 
-### 🛠️ Stack & Technologies
+### Stack & Technologies
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts,rust,c,cpp,python,nextjs,react,tailwind,postgres,docker,githubactions,linux&theme=dark" alt="Stack Technique" />
@@ -42,7 +42,7 @@
 
 ---
 
-### 📈 Graphiques & Activité
+### Graphiques & Activité
 
 <!-- Graphique d'activité continue -->
 <div align="center">
