@@ -51,16 +51,7 @@
 
 <br />
 
-<div align="center">
-  <!-- Trophées GitHub (visuel, stable et cohérent avec tokyonight) -->
-  <img src="https://github-profile-trophy.vercel.app/?username=nathannremacle&theme=tokyonight&no-frame=true&no-bg=true&margin_w=8" alt="GitHub Trophies" />
-</div>
-
-<br />
-
-<div align="center">
-  <!-- Stats GitHub nettoyées (sans paramètre private causant le crash) -->
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nathannremacle&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  &nbsp;
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathannremacle&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langages" />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nathannremacle/nathannremacle/output/github-snake-dark.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/nathannremacle/nathannremacle/output/github-snake-dark.svg" />
+</picture>
