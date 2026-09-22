@@ -44,23 +44,23 @@
 
 ### Graphiques & Activité
 
-<!-- Graphique d'activité continue -->
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=nathannremacle&theme=tokyo-night&area=true&hide_border=true&color=38BDF8" alt="Courbe d'activité GitHub" />
-</div>
-
-<br />
-
-<!-- Stats GitHub & Langages -->
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=nathannremacle&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  &nbsp;
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathannremacle&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langages" />
-</div>
-
-<br />
-
-<!-- Streak de contributions -->
-<div align="center">
+  <!-- Streak de contributions (très stable) -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nathannremacle&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<br />
+
+<div align="center">
+  <!-- Trophées GitHub (visuel, stable et cohérent avec tokyonight) -->
+  <img src="https://github-profile-trophy.vercel.app/?username=nathannremacle&theme=tokyonight&no-frame=true&no-bg=true&margin_w=8" alt="GitHub Trophies" />
+</div>
+
+<br />
+
+<div align="center">
+  <!-- Stats GitHub nettoyées (sans paramètre private causant le crash) -->
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nathannremacle&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  &nbsp;
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathannremacle&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langages" />
 </div>
