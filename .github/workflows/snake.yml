@@ -2,8 +2,12 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Exécution quotidienne automatique
+    - cron: "0 0 * * *"
   workflow_dispatch:
+
+# Autorise explicitement le workflow à pousser des commits
+permissions:
+  contents: write
 
 jobs:
   build:
@@ -14,7 +18,8 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-snake-dark.svg?palette=github-dark&color_snake=#38bdf8
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
+
+      - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
